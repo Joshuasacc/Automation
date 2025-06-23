@@ -1,2 +1,2 @@
 # Automation
-Automaation task using Python Programmming Language
+Automation task using Python Programmming Language
